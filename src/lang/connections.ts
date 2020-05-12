@@ -21,7 +21,7 @@ export default {
   },
   clearHistory: {
     zh: '清除历史记录',
-    en: 'Clear Histroy',
+    en: 'Clear History',
   },
   notConnect: {
     zh: '客户端未连接',
